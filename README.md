@@ -1,4 +1,4 @@
-### made the changes, some more, few
+### made the changes, some more, few more changes
 # node-todo-cicd
 
 Run these commands:
